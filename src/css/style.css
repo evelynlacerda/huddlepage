@@ -1,0 +1,4 @@
+body {
+    background: var(--background) url('../img/bg-desktop.svg') no-repeat center top;
+    background-size: cover;
+}
