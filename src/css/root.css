@@ -4,7 +4,9 @@
 
 /* VARIABLES */
 :root {
-    --white: #ffffff;
+    --text: #ffffff;
+    --button: #ffffff;
+    
     --violet: #674baf;
 
     --hover: #e882e8;
